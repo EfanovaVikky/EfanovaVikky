@@ -1,12 +1,12 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif" width="160"/>
+<img src="https://media.giphy.com/media/z2KbVZxKCHxxIDhnsQ/giphy.gif" width="100"/>
 </div>
 <div id="badges">
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=EfanovaVikky&style=flat-square&color=green" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="600" height="400"/>
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="500" height="350"/>
 </div>
 
 ---
